@@ -1,0 +1,21 @@
+{
+  "name": "alya-stealer",
+  "version": "1.0.0",
+  "description": "alya-stealer libarry by irfan ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node examples/example.js"
+  },
+  "keywords": [
+    "web",
+    "stealer",
+    "scraper",
+    "source-code",
+    "alya"
+  ],
+  "author": "irfan modz",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
